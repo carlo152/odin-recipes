@@ -1,13 +1,8 @@
-# odin-recipes
+Mexican Food Recipes Website
 
-Create a website showcasing Mexican food recipes
+A website showcasing delicious Mexican food recipes with HTML.
 
-I created several Mexican food recipes and built a website to showcase them.
-While developing the site, I applied my current HTML knowledge by:
-
-Using the (a) element with the (href) attribute to add relative links.
-
-Adding images with the (img) element and the (src) attribute.
-
-Creating ordered lists (ol) and unordered lists (ul) to organize content.
-
+Features
+- Links with (a) element and (href) attribute.
+- Images with (img) element and (src) attribute.
+- Ordered (ol) and unordered (ul) lists.
