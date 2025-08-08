@@ -1,6 +1,4 @@
-Mexican Food Recipes Website
-
-A website showcasing delicious Mexican food recipes with HTML.
+A website showcasing delicious Mexican food recipes.
 
 Features
 - Links with (a) element and (href) attribute.
